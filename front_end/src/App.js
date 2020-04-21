@@ -20,7 +20,7 @@ function App() {
     <Router>
       <Switch>
         <Route exact path="/" component={MainComponent} />
-
+        
       </Switch>
       {defaultRoute}
     </Router>
